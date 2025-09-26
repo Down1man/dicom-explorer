@@ -25,7 +25,3 @@ Lightweight project demonstrating:
 
 ## Tests
 Run `pytest -q`.
-
-## Notes
-- This project is a demo skeleton. In production you must consider PHI handling, encryption at rest/in transit,
-  rate limits, authentication, proper error handling, and regulatory traceability (e.g., for medtech).
